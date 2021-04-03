@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My text hhh
 Use the left arrow to go back!
 
 git commit -m
